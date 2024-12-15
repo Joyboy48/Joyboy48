@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyboy48" alt="joyboy48" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently exploring Flutter, Dart, Kotlin, Python, Java, Data Science, JavaScript, and more.**
+- 🌱 I’m currently Studing @ Indian Institute of Information Technology, Nagpur & I’m currently pursuing a degree in Computer Science and Engineering (CSE), with a specialization into Data Science and Analytics (DSA)
 
 - 📫 How to reach me **astitvaarya9589@gmail.com**
+
+-  👨‍💻 **I’m currently exploring Flutter, Dart, Kotlin, Python, Java, Data Science, JavaScript, and more.**
 
 - ⚡ Fun fact **I love experimenting with new tech stacks—sometimes, I code just for the thrill of learning something new.**
 
